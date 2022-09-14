@@ -1,5 +1,5 @@
 public class DZ1 {
     public void test (){
-        System.out.println("Komment");
+        System.out.println("Komment_2");
     }
 }
